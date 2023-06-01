@@ -14,10 +14,6 @@ A CLI directory manager that can be used to create directories, list directory c
 -h, --help           display help for command
 ```
 
-<<<<<<< HEAD
 ## Contributor
 
 @cjk7989
-=======
-## Contributor
->>>>>>> 13a4edea55fa6e4e06e2357503c9890dac6a080a
