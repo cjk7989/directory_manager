@@ -13,3 +13,7 @@ A CLI directory manager that can be used to create directories, list directory c
 -t, --touch <value>  Create a file
 -h, --help           display help for command
 ```
+
+## Contributor
+
+@cjk7989
